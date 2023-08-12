@@ -1,6 +1,6 @@
 # 📉 Data Science: Credit Card Fraud Detection 📉
 
-Thrilled to showcase my accomplishment in **CodSoft**'s Task 5 – a rewarding journey into the world of data science, with a focused emphasis on Credit Card Fraud Detection. Guided by CodSoft's expertise, I dived into crucial aspects of data analysis, preprocessing, visualization, model training, and evaluation, all aimed at contributing significantly to the vital field of fraud prevention.
+I'm excited to present my accomplishment in **CodSoft**'s Task 5 – an insightful journey into the world of data science, specifically focusing on Credit Card Fraud Detection. With CodSoft's guidance, I delved into essential aspects such as data analysis, preprocessing, visualization, model training, and evaluation, all aimed at contributing to the critical field of fraud prevention.
 
 ## Key Highlights:
 
